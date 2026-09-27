@@ -4,8 +4,8 @@ Repository cá nhân dùng để lưu trữ bài tập và sản phẩm học t�
 
 ## Thông tin học viên
 
-- **Mã học viên:** `<HVXX>`
-- **Họ và tên:** `<Họ tên của bạn>`
+- **Mã học viên:** `<>`
+- **Họ và tên:** `<Trần Bình Minh>`
 
 > Hãy cập nhật thông tin phía trên khi thiết lập repository lần đầu.
 
@@ -94,7 +94,7 @@ merge vào main
 
 Các lệnh cơ bản:
 
-```bash
+```bashcd
 git checkout main
 git pull
 git checkout -b hw/wXX-topic
@@ -103,7 +103,7 @@ git checkout -b hw/wXX-topic
 
 git status
 git add .
-git commit -m "feat: complete assignment"
+git commit -m "feat: complete assignment" 
 git push -u origin hw/wXX-topic
 ```
 
