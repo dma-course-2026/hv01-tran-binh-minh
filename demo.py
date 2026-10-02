@@ -1,2 +1,1 @@
-
-print("Hello Thanh Nguyen")
+print ("Hello team")
