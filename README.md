@@ -16,7 +16,7 @@ Danh sách học viên cập nhật phục vụ công tác tổ chức và quả
 | HV08 | Vũ Quang Huy | DE | 2004 | VPBank / ĐH KHTN | DE |
 | HV09 | Đặng Gia Bảo | Sinh viên đại học | 2007 | Chưa cung cấp | Chưa cung cấp |
 | HV10 | Tạ Đức Mạnh | Sinh viên đại học | 2007 | ĐH Giao thông Vận tải | ĐTVT |
-| HV11 | Đàm T Vân Anh | NVVP |  |  |  |
+| HV11 | Đàm T Vân Anh | NVVP | 1998 |  |  |
 | HV12 | Nguyễn Trung Thành | Kỹ sư ô tô |  |  |  |
 | HV13 | Đinh Vĩnh Anh | DE |  |  |  |
 | HV14 | Lê Đức Anh | Sinh viên đại học |  |  |  |
